@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author kernel-mk
+ * @author Adonis Kadjo Mathias 
  */
 public class Exercice1 {
     

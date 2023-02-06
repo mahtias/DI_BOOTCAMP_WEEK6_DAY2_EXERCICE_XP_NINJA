@@ -6,7 +6,7 @@ package com.exercicexpninja.exercice2;
 
 /**
  *
- * @author kernel-mk
+ * @author Adonis dev 
  */
 public class Exercice2 {
     
